@@ -33,6 +33,7 @@ Please contribute by adding new projects or updating existing ones, with relevan
 - **DataHub** - [mcp-server-datahub](https://github.com/acryldata/mcp-server-datahub)
 - **Secoda** — [Secoda MCP Server](https://docs.secoda.co/features/ai-assistant/secoda-mcp-server)
 - **Monte Carlo Data** — [MCP Quick-Start Guide](https://www.montecarlodata.com/blog-model-context-protocol-mcp)
+- **Select Star** - [Select Star MCP Server](https://docs.selectstar.com/features/mcp-server)
 
 ## Databases
 - **Snowflake**
