@@ -34,6 +34,7 @@ Please contribute by adding new projects or updating existing ones, with relevan
 - **Secoda** — [Secoda MCP Server](https://docs.secoda.co/features/ai-assistant/secoda-mcp-server)
 - **Monte Carlo Data** — [MCP Quick-Start Guide](https://www.montecarlodata.com/blog-model-context-protocol-mcp)
 - **Select Star** - [Select Star MCP Server](https://docs.selectstar.com/features/mcp-server)
+- **Statsnet** — [Background check any company in the world: registration, executives, courts and finances.](https://github.com/usenetstate/statsnet-mcp) · Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## Databases
 - **Snowflake**
