@@ -43,6 +43,10 @@ Please contribute by adding new projects or updating existing ones, with relevan
 - **MotherDuck / DuckDB** — [mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck)
 - **BigQuery** - [mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery)
 
+## Data Providers
+- **DC Hub** — [dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) · Remote: `https://dchub.cloud/mcp` · Registry: `cloud.dchub/mcp-server`
+  - The live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets (94 MCP tools; the free tier needs no key).
+
 ## Contributing
 1. Add the project under the correct heading.  
 2. Keep descriptions short and include at least one public link.  
