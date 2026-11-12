@@ -43,6 +43,9 @@ Please contribute by adding new projects or updating existing ones, with relevan
 - **MotherDuck / DuckDB** — [mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck)
 - **BigQuery** - [mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery)
 
+## Data Providers
+- **Datacircle** — [datacircle.dev](https://datacircle.dev), remote MCP server at `https://api.datacircle.dev/mcp`, open with no key. Find the best GTM APIs: list_apis and search_plans return each plan's price and score.
+
 ## Contributing
 1. Add the project under the correct heading.  
 2. Keep descriptions short and include at least one public link.  
